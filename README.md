@@ -3,7 +3,7 @@
 ## Pour le cloner 
 
 ```sh
-git clone git@github.com:Matteorde/GIT.git
+git@github.com:Matteorde/GIT.git
 ```
 
 ## Pour le voir
